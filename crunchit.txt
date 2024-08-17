@@ -1,0 +1,12 @@
+ee2m{model_m}.png   phase image
+fort.47             density HM
+fort.52             pert intensity
+fort.27             work integral (whole system)
+fort.227            work integral (star)
+fort.327            work integral (disk)
+fort.425            torq (star)
+fort.525            torq (disk)
+fort.228            stress (star)
+fort.328            stress (disk)
+polyout             details
+fort.50             details
